@@ -1,0 +1,8 @@
+0
+https://www.baidu.com
+1
+https://www.google.com
+2
+system("pause")可以实现冻结屏幕，便于观察程序的执行结果；system("CLS")可以实现清屏操作。而调用color函数可以改变控制台的前景色和背景，具体参数在下面说明。
+3
+3333333333333333333333
